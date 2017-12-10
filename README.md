@@ -16,11 +16,11 @@ This installs the NodeJS module globally in `/usr/local/lib/node_modules/neeo-os
 
 or:
 
-`node /usr/local/lib/node_modules/neeo-osx-spotify-controller/index.js`
+`node /usr/local/lib/node_modules/neeo-osx-spotify-controller/index.js 6336`
 
 or:
 
-`node neeo-osx-spotify-controller`
+`node neeo-osx-spotify-controller 6336`
 
 ### Installation
 
