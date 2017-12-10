@@ -20,7 +20,6 @@ const spotifyController = neeoapi.buildDevice('OSX Controller')
   .setType('MEDIAPLAYER')
 
   // Then we add the capabilities of the device
-  .addButtonGroup('Channel Zapper')
   .addButtonGroup('Transport')
   .addButtonGroup('Transport Scan')
   .addButtonGroup('VOLUME')
