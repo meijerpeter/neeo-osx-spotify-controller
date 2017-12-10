@@ -36,7 +36,8 @@ Usage of the Mac's LaunchAgent is recommended to keep the NodeJS server running.
 	<key>ProgramArguments</key>
 	<array>
 		<string>/usr/local/bin/node</string>
-		<string>/usr/local/lib/node_modules/neeo-osx-spotify-controller/index.js< 6336/string>
+		<string>/usr/local/lib/node_modules/neeo-osx-spotify-controller/index.js</string>
+		<string>6337</string>
 	</array>
 	<key>RunAtLoad</key>
 	<true/>
