@@ -45,4 +45,4 @@ Usage of the Mac's LaunchAgent is recommended to keep the NodeJS server running.
 </plist>
 ```
 
-With every reboot or new login the NodeJS server will start the `neeo-osx-spotify-controller` application on port 6336. Increment the port number if you have other NEOO modules running.
+With every reboot or new login the NodeJS server will start the `neeo-osx-spotify-controller` application on port 6336. Increment the port number if you have other NEEO modules running.
